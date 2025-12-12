@@ -13,7 +13,10 @@ main:
   # url: /home/
 
   - title: "News"
-    url: /rnews/
+    url: /rnews/    
+    # children:
+    #   - title:
+    #     url: /allnews/
 
   - title: "Publications"
     url: /pub/
