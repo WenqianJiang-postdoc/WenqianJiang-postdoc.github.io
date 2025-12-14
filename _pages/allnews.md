@@ -9,6 +9,8 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 <!-- Download my [CV](http://github.com "CV"). -->
+**[2025/12]** Our Paper [Can Carbon-Aware Electric Load Shifting Reduce Emissions? An Equilibrium-Based Analysis](https://arxiv.org/pdf/2504.07248) was accepted in ACM e-Energy 2026 in Banff, Canada. Thank you for all my co-authors, [Prof. Line Roald](https://engineering.wisc.edu/directory/profile/line-roald/ "postdocP"), [Prof. Michael C. Ferris](https://pages.cs.wisc.edu/~ferris/), and [Dr. Olivier Huber](https://nullptr.fr/) 🫶!
+
 **[2025/10]** I was invited to present our work 💡[Electricity Markets with Consumer-based Carbon Costs: A New Paradigm for Greening the Grid](https://arxiv.org/pdf/2508.01076) at [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/?_gl=1*1nkyjf9*_gcl_au*MzY4MzE3MTMuMTc2MTY3NjE0Mw..) in Session Optimization of Power Systems. Special thanks to [Prof. Daniel Bienstock](https://scholar.google.com/citations?user=pbbFBNUAAAAJ&hl=zh-CN&oi=ao) for the invitation 🫶!
 
 **[2025/08]** I will present our poster Greening the Grid: Electricity Market Clearing with Consumer-Based Carbon Cost at **NSF Exploiting Spatio-Temporal Interdependency Between Electrochemical Manufacturing and Power Grid to Optimize Flexibility and Sustainability** workshop. Welcome to drop by our posters.

@@ -9,6 +9,8 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 <!-- Download my [CV](http://github.com "CV"). -->
+**[2025/12]** Our Paper [Can Carbon-Aware Electric Load Shifting Reduce Emissions? An Equilibrium-Based Analysis](https://arxiv.org/pdf/2504.07248) was accepted in ACM e-Energy 2026 in Banff, Canada. Thank you for all my co-authors, [Prof. Line Roald](https://engineering.wisc.edu/directory/profile/line-roald/ "postdocP"), [Prof. Michael C. Ferris](https://pages.cs.wisc.edu/~ferris/), and [Dr. Olivier Huber](https://nullptr.fr/) 🫶!
+
 **[2025/10]** I was invited to present our work 💡[Electricity Markets with Consumer-based Carbon Costs: A New Paradigm for Greening the Grid](https://arxiv.org/pdf/2508.01076) at [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/?_gl=1*1nkyjf9*_gcl_au*MzY4MzE3MTMuMTc2MTY3NjE0Mw..) in Session Optimization of Power Systems. Special thanks to [Prof. Daniel Bienstock](https://scholar.google.com/citations?user=pbbFBNUAAAAJ&hl=zh-CN&oi=ao) for the invitation 🫶!
 
 **[2025/08]** I will present our poster: Greening the Grid: Electricity Market Clearing with Consumer-Based Carbon Cost at **NSF Exploiting Spatio-Temporal Interdependency Between Electrochemical Manufacturing and Power Grid to Optimize Flexibility and Sustainability** workshop. Welcome to drop by our posters.
@@ -18,8 +20,6 @@ author_profile: true
 **[2025/06]** I will present our work 💡[Greening the Grid: Electricity Market Clearing with Consumer-Based Carbon Cost](https://arxiv.org/abs/2501.09853) at [IREP 2025](https://www.irep2025.unisannio.it/home-page) in Session 13: Dynamics and Simulation. Special thanks to [Prof. Line Roald](https://engineering.wisc.edu/directory/profile/line-roald/ "postdocP") for the travel support 🫶! Welcome to drop by our talks.
 
 **[2025/03]** I participated in [NSF Expeditions in Computing for Computational Decarbonization of Societal Infrastructures at Mesoscales](https://ui.adsabs.harvard.edu/abs/2024nsf....2325956S/abstract) workshop with [Prof. Line Roald](https://engineering.wisc.edu/directory/profile/line-roald/ "postdocP") in Boston. We shared our carbon-aware power system analysis and sparked dynamic discussions with interdisciplinary researchers—from professors to students—across distributed systems, computing, machine learning, optimization, economics and policy fields! 🔗 [Project Info](https://codecexp.us/)
-
-**[2025/01]** I will present our poster about 💡**Carbon-Sensitive Load Management: A Game-Theoretic Exploration** at [2025 Grid Science Winter School and Conference](https://web.cvent.com/event/30a7abad-62ae-489e-917f-4c842430403e/summary). Welcome to drop by our posters.
 
 <a class="text-btn" href="../allnews/" style="
     display: inline-block;

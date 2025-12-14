@@ -10,6 +10,8 @@ redirect_from:
 
 I'm currently a Research Associate in Electrical and Computer Engineering at University of Wisconsin-Madison, advised by [Prof. Line Roald](https://engineering.wisc.edu/directory/profile/line-roald/ "postdocP"). I obtained my Ph.D. degree in Computer and Information Engineering from The Chinese University of Hong Kong, Shenzhen, advised by [Prof. Chenye Wu](https://www.wuchenye.cn/ "phdP"). Download my [CV](/my_cv.pdf){:target="_blank"}.
 
+I am **actively on the academic job market** for the 2025-2026 cycle. Please feel free to contact me!
+
 The global clean energy transition and the widespread electrification of sectors like transportation, manufacturing, and heating are creating larger, more distributed, and increasingly uncertain power systems. This shift challenges the adequacy of the traditional generation-follows-load power system operation paradigm and calls for advanced methods to achieve dynamic supply-demand coordination. My long-term research vision is to develop foundational models and algorithms necessary to achieve this coordination, thereby enhancing the reliability, efficiency, and sustainability of power and energy systems. In pursuit of this vision, my current research focuses on designing robust sample-based methods to manage uncertainties and employ potential dynamic flexibility to coordinate system stakeholders.
 
 ### Research Interests ###
